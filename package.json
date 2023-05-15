@@ -2,12 +2,15 @@
   "name": "project-x",
   "version": "1.0.0",
   "description": "Nihat Abdullazade Full Stack 1",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start" : "node app.js"
   },
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nihat-js/project-x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
